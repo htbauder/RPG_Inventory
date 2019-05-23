@@ -1,2 +1,2 @@
 # RPG_Inventory
-A simple inventory system for an RPG-styled game with multiple item types
+A simple inventory system designed for an RPG-styled game with multiple item types.
